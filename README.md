@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/><a href="https://github.com/damn-imgud">Programmer</a>, <a href="https://www.linkedin.com/in/mark-collins-/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Professional & Programming Project Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
